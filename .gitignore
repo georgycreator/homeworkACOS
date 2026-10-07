@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Локальные служебные скрипты
+IDZ1/apply_*.sh
+IDZ1/make_clean_zip.sh
+IDZ1/fix_*.sh
+IDZ1/setup.sh
