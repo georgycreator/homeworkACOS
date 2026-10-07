@@ -1,0 +1,7 @@
+build/
+cmake-build-*/
+*.o
+*.log
+tests/
+.idea/
+setup.sh
