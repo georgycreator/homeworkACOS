@@ -1,0 +1,13 @@
+build/
+cmake-build-*/
+build-*/
+report_render/
+*.o
+*.log
+.idea/
+setup.sh
+*.Zone.Identifier*
+core
+core.*
+*.core
+.DS_Store
