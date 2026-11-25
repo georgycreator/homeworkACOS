@@ -1,0 +1,17 @@
+build/
+build-asan/
+cmake-build-*/
+logs/
+*.log
+.idea/
+.vscode/
+*.o
+*.a
+*.so
+*.pyc
+*.tmp
+*.bak
+*.swp
+*~
+core
+core.*
